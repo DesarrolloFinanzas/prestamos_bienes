@@ -1,0 +1,1 @@
+$Resul_Segu = $objSeguridadDAO->AgregaripDAO($_SESSION['idusuario'],$txtFuncion);

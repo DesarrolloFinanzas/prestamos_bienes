@@ -1,0 +1,173 @@
+.blanco {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-ALIGN: center
+}
+.blanco A:unknown {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.cuerpopeq {
+	PADDING-LEFT: 8px; FONT: 7pt Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.fecha_hoy {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Tahoma; TEXT-DECORATION: none
+}
+.cuerponegrita {
+	FONT: bold 8pt Verdana, Arial, Helvetica, sans-serif; COLOR: #666666
+}
+
+.cuerpoclav {
+	FONT-SIZE: 8pt; COLOR: #a10707; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+
+.cuerpomed {
+	FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.cuerpomed_usuario {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.cuerpomed_negro {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.cuerpomed_mante {
+	FONT-SIZE: 12pt; COLOR: #C00000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.cuerpomed1 {
+	FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.cuerpomed_red {
+	FONT-SIZE: 8pt; COLOR: #C00000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.cuerpomed_rojo {
+	FONT-SIZE: 9pt; COLOR: #C00000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.cuerpomed_blanco {
+	FONT-SIZE: 7,5pt; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.cuerpomed_blanco1 {
+	FONT-SIZE: 7,5pt; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.titulo_blanco {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.datos {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.datoslogin {
+	FONT-SIZE: 11px; COLOR: #2c5b87; FONT-FAMILY: Tahoma, "Microsoft Sans Serif"; TEXT-ALIGN: justify
+}
+
+.datoslogin2 {
+	FONT-SIZE: 11px; COLOR: #a10707; FONT-FAMILY: Tahoma, "Microsoft Sans Serif"; TEXT-ALIGN: justify
+}
+
+.field {
+	BORDER-RIGHT: #2c5b87 1px solid; BORDER-TOP: #2c5b87 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #2c5b87 1px solid; COLOR: #666666; BORDER-BOTTOM: #2c5b87 1px solid; FONT-FAMILY: Tahoma, Verdana, Arial; BACKGROUND-COLOR: #ffffff
+}
+.enviado {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; CURSOR: pointer; COLOR: #ffffff; BORDER-TOP-STYLE: none; FONT-FAMILY: Tahoma, "Microsoft Sans Serif"; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BACKGROUND-COLOR: #21476c; BORDER-BOTTOM-STYLE: none
+}
+.fondoazulsubtitulo {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; TEXT-TRANSFORM: uppercase; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #2c5f94; TEXT-ALIGN: center
+}
+.fondoazulclarosubtitulo {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; TEXT-TRANSFORM: uppercase; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #4f92c8; TEXT-ALIGN: center
+}
+.tituloservicio {
+	FONT: bold 9pt Arial, Helvetica, sans-serif; COLOR: #2c5b87
+}
+.error {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #c60000; FONT-FAMILY: Tahoma, "Microsoft Sans Serif"; TEXT-DECORATION: none
+}
+.bordetabla {
+	BORDER-RIGHT: #2c5b87 thin solid; BORDER-TOP: #2c5b87 thin solid; FONT-WEIGHT: normal; FONT-SIZE: 11px; BACKGROUND: #e6e6e6; BORDER-LEFT: #2c5b87 thin solid; COLOR: #000053; BORDER-BOTTOM: #2c5b87 thin solid; FONT-FAMILY: Tahoma, "Microsoft Sans Serif"
+}
+
+.bordetabla3 {
+	BORDER-RIGHT: #a10707 thin solid; BORDER-TOP: #a10707 thin solid; FONT-WEIGHT: normal; FONT-SIZE: 11px; BACKGROUND: #ffffff; BORDER-LEFT: #a10707 thin solid; COLOR: #a10707; BORDER-BOTTOM: #a10707 thin solid; FONT-FAMILY: Tahoma, "Microsoft Sans Serif"
+}
+
+.bordetablaprincipal {
+	BORDER-RIGHT: #2c5b87 thin solid; BORDER-TOP: #2c5b87 thin solid; BORDER-LEFT: #2c5b87 thin solid; BORDER-BOTTOM: #2c5b87 thin solid
+}
+
+.bordetablaprincipal2 {
+	BORDER-RIGHT: #a10707 thin solid; BORDER-TOP: #a10707 thin solid; BORDER-LEFT: #a10707 thin solid; BORDER-BOTTOM: #a10707 thin solid
+}
+
+.bordetablagris {
+	BORDER-RIGHT: #cccccc thin solid; BORDER-TOP: #cccccc thin solid; BORDER-LEFT: #cccccc thin solid; BORDER-BOTTOM: #cccccc thin solid
+}
+.buttonscontainer {
+	WIDTH: 150px
+}
+.buttons A {
+	BORDER-RIGHT: #000066 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #7f9cbc 1px solid; DISPLAY: block; PADDING-LEFT: 3px; PADDING-BOTTOM: 2px; MARGIN: 0px; FONT: bold 11px Verdana, sans-serif; BORDER-LEFT: #7f9cbc 1px solid; WIDTH: 100%; COLOR: #ffffff; PADDING-TOP: 2px; BORDER-BOTTOM: #000066 1px solid; BACKGROUND-COLOR: #325b87; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.buttons A:hover {
+	BORDER-RIGHT: #274770 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #000066 1px solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 1px; BORDER-LEFT: #000066 1px solid; COLOR: #ffffff; PADDING-TOP: 3px; BORDER-BOTTOM: #274770 1px solid; BACKGROUND-COLOR: #42668a; TEXT-DECORATION: none
+}
+.buttonsin A {
+	BORDER-RIGHT: #000066 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #cdd8e4 1px solid; DISPLAY: block; PADDING-LEFT: 3px; FONT-WEIGHT: normal; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: #cdd8e4 1px solid; WIDTH: 100%; COLOR: #325b87; PADDING-TOP: 2px; BORDER-BOTTOM: #000066 1px solid; FONT-FAMILY: Verdana, sans-serif; BACKGROUND-COLOR: #bcd0e7; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.buttonsin A:hover {
+	BORDER-RIGHT: #000066 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #cdd8e4 1px solid; PADDING-LEFT: 4px; FONT-WEIGHT: bold; PADDING-BOTTOM: 1px; BORDER-LEFT: #cdd8e4 1px solid; COLOR: #325b87; PADDING-TOP: 3px; BORDER-BOTTOM: #000066 1px solid; BACKGROUND-COLOR: #bcd0e7; TEXT-DECORATION: none
+}
+.link {
+	FONT: bold 10px Verdana, Arial, Helvetica, sans-serif; COLOR: #2c5f94; MARGIN-RIGHT: 5px; TEXT-DECORATION: none
+}
+.link A:unknown {
+	FONT: bold 10px Verdana, Arial, Helvetica, sans-serif; COLOR: #2c5f94; MARGIN-RIGHT: 5px; TEXT-DECORATION: none
+}
+.linksimulado {
+	FONT: bold 10px Verdana, Arial, Helvetica, sans-serif,; CURSOR: pointer; COLOR: #2c5f94; MARGIN-RIGHT: 5px; TEXT-DECORATION: none
+}
+.linksimulado A:unknown {
+	FONT: bold 10px Verdana, Arial, Helvetica, sans-serif,; CURSOR: pointer; COLOR: #2c5f94; MARGIN-RIGHT: 5px; TEXT-DECORATION: none
+}
+.totales {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #cccccc; TEXT-ALIGN: right
+}
+.bordetabla_total {
+	BORDER-RIGHT: #2c5f94 thin solid; BORDER-TOP: #2c5f94 thin solid; BORDER-LEFT: #2c5f94 thin solid; BORDER-BOTTOM: #2c5f94 thin solid; BACKGROUND-COLOR: #cccccc
+}
+#navigation {
+	BORDER-RIGHT: #444 0px solid; BORDER-TOP: #444 0px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; MARGIN: 0px; BORDER-LEFT: #444 0px solid; WIDTH: 160px; BORDER-BOTTOM: #444 0px solid; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+#navigation H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 160px; PADDING-TOP: 0px; BORDER-BOTTOM: #c73b0a 5px solid; HEIGHT: 53px
+}
+#navigation UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.mainMenu A {
+	PADDING-RIGHT: 0px; BORDER-TOP: #fff 1px solid; DISPLAY: block; PADDING-LEFT: 8px; FONT-SIZE: 10px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; BORDER-BOTTOM: #e3e3e3 1px solid; FONT-FAMILY: Tahoma, "Microsoft Sans Serif"; TEXT-DECORATION: none
+}
+.mainMenu A:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; BACKGROUND: url(../imagenes/fondo_menu.jpg) #2c5b87; COLOR: #ffffff; FONT-FAMILY: Tahoma, "Microsoft Sans Serif"
+}
+.mainMenu A:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; BACKGROUND: url(../imagenes/fondo_menu.jpg) #2c5b87; COLOR: #ffffff; FONT-FAMILY: Tahoma, "Microsoft Sans Serif"
+}
+.mainMenu A:hover {
+	FONT-SIZE: 10px; BACKGROUND: url(../imagenes/fondo_menu.jpg) #2c5b87; COLOR: #ffffff; FONT-FAMILY: Tahoma, "Microsoft Sans Serif"
+}
+.subMenu A:link {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; FONT-SIZE: 11px; BACKGROUND: #ffffff; PADDING-BOTTOM: 5px; COLOR: #2c5f94; PADDING-TOP: 5px; FONT-FAMILY: Tahoma, "Microsoft Sans Serif"
+}
+.subMenu A:visited {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 5px; FONT-SIZE: 11px; BACKGROUND: #ffffff; PADDING-BOTTOM: 5px; COLOR: #2c5f94; PADDING-TOP: 5px; FONT-FAMILY: Tahoma, "Microsoft Sans Serif"
+}
+.subMenu A:hover {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 8px; FONT-SIZE: 11px; BACKGROUND: #e6e6e6; PADDING-BOTTOM: 5px; COLOR: #2c5f94; PADDING-TOP: 5px; FONT-FAMILY: Tahoma, "Microsoft Sans Serif"
+}
+.field_fondogris {
+	BORDER-RIGHT: #2c5b87 1px solid; BORDER-TOP: #2c5b87 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #2c5b87 1px solid; COLOR: #2c5b87; BORDER-BOTTOM: #2c5b87 1px solid; FONT-FAMILY: Tahoma, Verdana, Arial; BACKGROUND-COLOR: #e6e6e6
+}
+.etiqueta_simulada {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; FONT: bold 8pt Verdana, Arial, Helvetica, sans-serif; COLOR: #666666; BACKGROUND-COLOR: #e6e6e6; BORDER-RIGHT-WIDTH: 0px
+}
+.bordetabla2 {
+	BORDER-RIGHT: #2c5b87 thin solid; BORDER-TOP: #2c5b87 thin solid; FONT-WEIGHT: normal; FONT-SIZE: 11px; BORDER-LEFT: #2c5b87 thin solid; COLOR: #000053; BORDER-BOTTOM: #2c5b87 thin solid; FONT-FAMILY: Tahoma, "Microsoft Sans Serif"
+}
+.cuerponegrita_titulo {
+	FONT: bold 10pt Verdana, Arial, Helvetica, sans-serif; COLOR: #666666
+}
